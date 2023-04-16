@@ -1,0 +1,41 @@
+.counter {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #0a2b1e;
+}
+
+.counter__title {
+  font-size: 1rem;
+  color: #0a2b1e;
+  font-weight: 500;
+}
+
+.about__content {
+  padding-left: 50px;
+}
+
+.about__img img {
+  border-radius: 15px;
+}
+
+.about__content h2 {
+  font-weight: 600;
+}
+.short_div{
+  width: 95%;
+  margin-left: 30px;
+  text-shadow: 3px white ;
+  
+}
+.body_color{
+  background-color:blanchedalmond;
+}
+.white{
+  background-color: white;
+}
+.black{
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIIA5wMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAAAQf/xAAVEAEBAAAAAAAAAAAAAAAAAAAAAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxoBQBAUAAEBQAAQFAAEAUAARQAABFAAAEUEVFAAARQAABFAAAEUAAAAAABFAAAEUAAARQBKoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlVKoAAAICgAAgKAAIAoAAgCgACAKAAIoAAAigCVQAAAAAAAAAAAAAAAAAAAAAAAAAAAARUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAEoAP/9k=");
+}
+.whitee{
+  color: white;
+}
